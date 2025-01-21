@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Croons
 - 👀 I’m interested in games
-- 🌱 I’m currently learning game dev
-- 📫 How to reach me, discord: Croons#7777
+- 🌱 Currently learning game dev
+- 📫 
 
 <!---
 Croons/Croons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
